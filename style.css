@@ -1,0 +1,6 @@
+@keyframes moving {
+  from {background-color: red;}
+  to {background-color: orange;}
+  to {background-color: yellow;}
+  
+}
